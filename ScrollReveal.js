@@ -3,7 +3,7 @@
 <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>  
 
 //In the code below, the #about, #services, #projects & #contact are the section IDs of my website. 
-//Duration is in milliseconds, origin & distance are self explanatory. 
+//Duration is in milliseconds, origin determines which direction element appears from, & distance is distance element will be revealed from. 
 
 <script>
 window.sr = ScrollReveal();
